@@ -1,0 +1,12 @@
+SMART AI RESUME SCREENING SYSTEM
+---------------------------------
+
+Matched Skills/Requirements:
+analysis, bachelor, communication, data, learning, machine, numpy, pandas, programming, python, sql
+
+Missing Requirements:
+None
+
+Resume Match Score: 100.00%
+Screening Result: Suitable for further review
+
