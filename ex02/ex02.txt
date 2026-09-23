@@ -1,0 +1,2 @@
+solution found: [5, 2, 4, 7, 0, 3, 1, 6]
+No Solution found within the maximum number of steps
